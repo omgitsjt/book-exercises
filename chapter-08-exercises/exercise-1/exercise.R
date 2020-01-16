@@ -2,16 +2,20 @@
 
 # Create a vector `my_breakfast` of everything you ate for breakfast
 
+my_breakfast <- c("Eggs", "Bacon", "Apple Juice", "French Toast")
 
 # Create a vector `my_lunch` of everything you ate (or will eat) for lunch
 
+my_lunch <- c("Small hotdog, Big hotdog")
 
 # Create a list `meals` that has contains your breakfast and lunch
 
+meals <- list(my_breakfast, my_lunch)
 
 # Add a "dinner" element to your `meals` list that has what you plan to eat 
 # for dinner
 
+meals <- 
 
 # Use dollar notation to extract your `dinner` element from your list
 # and save it in a vector called 'dinner'
