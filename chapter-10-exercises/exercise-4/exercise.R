@@ -5,12 +5,17 @@
 # Be sure to set your working directory in RStudio, and do NOT treat strings as 
 # factors!
 
+setwd("d:/Education/UW/Informatics/INFO201/book-exercises/chapter-10-exercises/exercise-4/")
+grants <- read.csv("data/gates_money.csv")
 
 # Use the View function to look at the loaded data
 
+View(grants)
 
 # Create a variable `organization` that contains the `organization` column of 
 # the dataset
+
+
 
 
 # Confirm that the "organization" column is a vector using the `is.vector()` 
